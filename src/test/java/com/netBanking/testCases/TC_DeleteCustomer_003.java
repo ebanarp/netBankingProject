@@ -48,7 +48,7 @@ public class TC_DeleteCustomer_003 extends BaseClass
 		
 		deletealert1.accept();
 					
-		logger.info("Customer deleted");		
+		logger.info("Customer deleted..");		
 		
 	}
 }
