@@ -1,0 +1,8 @@
+com\netBanking\testCases\TC_LoginTest_001.class
+com\netBanking\pageObjects\LoginPage.class
+com\netBanking\testCases\BaseClass.class
+com\netBanking\utilities\ReadConfig.class
+com\netBanking\pageObjects\DeleteCustomerPage.class
+com\netBanking\testCases\TC_DeleteCustomer_003.class
+com\netBanking\pageObjects\NewCustomerPage.class
+com\netBanking\testCases\TC_AddCustomer_002.class
